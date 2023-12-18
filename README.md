@@ -1,4 +1,4 @@
-# Gallary *
+# Gallary 
 
 ## HTML:
 - div gallary 
